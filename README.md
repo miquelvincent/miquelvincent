@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there I'm Vincent 🚀 
 
-<!--
-**miquelvincent/miquelvincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 👨🏻‍💻.&nbsp; Front end developer 
+- 🎨 &nbsp; Digital artist
+- 🎛 &nbsp; I'm trying to make music too
 
-Here are some ideas to get you started:
+## 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+Currently I'm working as a lead front end developer at [@reelevant-tech](https://github.com/reelevant-tech)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I use daily
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="35">&nbsp; 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="35">&nbsp;    
+</p>
