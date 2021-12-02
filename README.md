@@ -6,7 +6,7 @@
 - 🎛 &nbsp; I'm trying to make music too
 
 ## 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-Currently I'm working as a lead front end developer at [@reelevant-tech](https://github.com/reelevant-tech)
+Currently I'm working at [@dotfile](https://github.com/DotfileTech)
 
 ## I use daily
 <p>
